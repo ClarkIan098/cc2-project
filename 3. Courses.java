@@ -1,4 +1,4 @@
-
+//activity 3
 package courses;
 import java.util.Scanner;
 
