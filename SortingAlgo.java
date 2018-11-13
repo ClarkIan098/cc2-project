@@ -1,8 +1,9 @@
 //Sorting Algorithm Selection Sort
+//Activity 9
 package selectionsort;
 
 import java.util.Scanner;
-public class SelectionSort {
+public class SortingAlgo {
 
 
     public static void main(String[] args) {
