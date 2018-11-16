@@ -1,4 +1,4 @@
-
+//Final Activity
 package finalactivity;
 import java.util.Scanner;
 public class FinalActivity {
