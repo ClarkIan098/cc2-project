@@ -1,5 +1,5 @@
 //Sorting Algorithm Selection Sort
-//Activity 9
+//Activity 8
 package selectionsort;
 
 import java.util.Scanner;
